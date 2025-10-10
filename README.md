@@ -114,7 +114,7 @@ h2 {
 }
 ```
 ## OUTPUT
-
+![Uploading Screenshot 2025-10-10 165658.png…]()
 
 
 
