@@ -114,7 +114,8 @@ h2 {
 }
 ```
 ## OUTPUT
-![Uploading Screenshot 2025-10-10 165658.png…]()
+<img width="1920" height="1080" alt="Screenshot 2025-10-10 165658" src="https://github.com/user-attachments/assets/67442ec7-02bd-4cfa-8278-21886e9ba5cf" />
+
 
 
 
